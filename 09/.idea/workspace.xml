@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="77520b27-6342-4de2-b569-23f27f77b0e9" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../promises/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../promises/index1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../promises/index2_4.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../promises/index3.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../promises/index5.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../promises/index6.html" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1uqaonYZbwuXf6VsynYBLAoqShc" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="ts.external.directory.path" value="C:\Program Files\JetBrains\WebStorm 2020.1\plugins\JavaScriptLanguage\jsLanguageServicesImpl\external" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="77520b27-6342-4de2-b569-23f27f77b0e9" name="Default Changelist" comment="" />
+      <created>1625395750364</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1625395750364</updated>
+      <workItem from="1625395751547" duration="41000" />
+      <workItem from="1627776987439" duration="5000" />
+      <workItem from="1627842560801" duration="629000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+</project>
