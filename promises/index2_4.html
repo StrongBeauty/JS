@@ -1,0 +1,26 @@
+<script>
+    let pr = new Promise((resolve) => {
+        let data = {
+            cities: [{title: "Minsk"}, {title: "Kiev"}],
+            website: "it-kamasutra.com"
+        };
+        resolve(data);
+    });
+
+    pr.then(data => {
+        console.log(data)
+        return data;
+    })
+        .then(data => {
+            console.log(data.website);
+        })
+
+    let pr1 = pr.then(data => {
+        console.log(data);
+        return data;
+    })
+    pr1.then(data => {
+        console.log(data.website);
+    })
+
+</script>

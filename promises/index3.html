@@ -1,0 +1,39 @@
+<script>
+    const doAfter = ((sec) => {
+        let prom = new Promise((res) => {
+            setTimeout(() => {
+                res()
+            }, sec * 1000)
+        })
+        return prom
+    })
+
+    let promise3 = doAfter(3);
+    setTimeout(() => {
+        doAfter(3).then(() => console.log('promise resolved - 3'))
+    }, 3000)
+    setTimeout(() => {
+        doAfter(5).then(() => console.log('promise resolved - 5'))
+    }, 3000)
+    setTimeout(() => {
+        doAfter(8).then(() => console.log('promise resolved - 8'))
+    }, 3000)
+
+    let cl1 = () => {return 5}
+    let cl2 = () => console.log('и я тоже следом сработал через 3 секунд')
+
+    let pr1 = promise3.then(cl1);
+    let pr2 = pr1.then(cl2);
+    pr2.then(() => console.log('и я'));
+
+    let prpr = new Promise((res) => {
+        let i = 0
+        setInterval(() => {
+            i++
+            res(i)
+        }, 5000)
+        })
+
+    prpr.then(() => console.log('5 sec only one') )
+
+</script>

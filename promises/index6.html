@@ -1,0 +1,39 @@
+<script>
+    const getRandomAfter = ((sec) => {
+        let prom = new Promise((res) => {
+            setTimeout(() => {
+                res()
+            }, sec * 1000)
+        })
+        return sec
+    })
+    //getRandomAfter(4).then( number => console.log(`я получил ${number} спустя 4 секунды`))
+    let promises = [getRandomAfter(1),getRandomAfter(2), getRandomAfter(3)];
+    let commonPromise = Promise.all(promises);
+    debugger
+    commonPromise.then((res) => {
+        // как вывести здесь все 3 числа?? гуглим Promise.all
+        console.log(res)
+    }) ;
+
+    let pr1 = api.getVacanciesCountFromMicrosoft()
+        .then(data => {
+            console.log(data);
+            return data
+        });
+
+    let pr2 = api.getVacanciesCountFromGoogle()
+        .then(data => {
+            console.log(data);
+            return data
+        });
+    let p3 = Promise.all([pr1, pr2]).then((res) => {
+        let sum = res[0] + res[1]
+        res(sum)
+    })
+    //api.sendStudentsCountToItKamasutra(sum)
+        p3.then(sum => {
+            console.log(sum);
+        });
+
+</script>

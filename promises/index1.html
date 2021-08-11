@@ -1,0 +1,43 @@
+<script>
+    /*   let pr = new Promise((res) => {
+           setTimeout(() => {
+               let number = Math.random()
+               res(number)
+           }, 3000)
+
+       })
+
+       pr.then(number => {
+           console.log('pr resolved: ', number)
+       })
+
+
+       let myPr = new Promise((res, rej) => {
+           let num = 1
+           res(num)
+       })
+
+       myPr.then(num => {
+           console.log('result = ', num)
+       })
+
+       myPr.then(num => {
+           console.log('result = ', num)
+       })
+
+       console.log('finish')
+   */
+
+    const doAfter = ((sec) => {
+        let prom = new Promise((res) => {
+            setTimeout(() => {
+                res()
+            }, sec * 1000)
+        })
+        return prom
+    })
+
+    doAfter(5).then(() => alert('я сработал через 3 секунды'))
+    doAfter(3).then(() => alert('я сработал через 3 секунды'))
+    doAfter(10).then(() => alert('я сработал через 3 секунды'))
+</script>

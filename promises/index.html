@@ -1,0 +1,13 @@
+<script>
+    let pr = new Promise((res) => {
+        setTimeout(() => {
+            alert('Hello')
+            res()
+        }, 2000)
+
+    })
+
+    pr.then(() => {
+        console.log('pr resolved')
+    })
+</script>
