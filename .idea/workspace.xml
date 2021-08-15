@@ -2,12 +2,139 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3fa0e005-8d55-4af7-98cc-b4faba503d98" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/promises/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/promises/index1.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/promises/index2_4.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/promises/index3.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/promises/index5.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/promises/index6.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/NativeJS.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/07_08_unit_test/src/tasks/tasks7.test.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/07_08_unit_test/src/tasks/tasks7.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/07_08_unit_test/src/tests/tasks.test.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/07_08_unit_test/src/tests/tasks.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/09/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/09/.idea/09.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/09/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/09/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/09/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/09/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/09/src/App.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/09/src/App.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/09/src/components/CurrencyExchange/CurrencyExchange.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/09/src/containers/CurrencyExchangeContainer/CurrencyEContainer.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/09/src/index.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/09/src/index.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/09/src/lessons/lesson1/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/09/src/lessons/lesson1/lesson1.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/09/src/lessons/lesson2/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/09/src/lessons/lesson2/lesson2.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/09/src/lessons/lesson3/API.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/09/src/lessons/lesson3/Lesson3.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/09/src/lessons/lesson3/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/09/src/lessons/lesson3/lesson_3.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/09/src/lessons/lesson4/Lesson4.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/09/src/lessons/lesson4/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/09/src/lessons/lesson4/lesson_4.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/09/src/lessons/lesson5/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/09/src/lessons/lesson5/lesson5.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/09/src/lessons/lesson6/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/09/src/lessons/lesson6/lesson6.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/09/src/lessons/lesson7/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/09/src/lessons/lesson7/lesson7.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/09/src/lessons/lesson8/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/09/src/lessons/lesson8/lesson8.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/09/src/lessons/lesson8/lesson_8.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/09/src/react-app-env.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/09/src/redux/actions.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/09/src/redux/currencyReducer.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/09/src/redux/selectors.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/09/src/redux/state.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/09_16/.eslintcache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/09_16/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/09_16/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/09_16/.idea/js.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/09_16/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/09_16/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/09_16/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/09_16/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/09_16/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/09_16/public/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/09_16/public/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/09_16/src/App.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/09_16/src/App.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/09_16/src/components/CurrencyExchange/CurrencyExchange.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/09_16/src/containers/CurrencyExchangeContainer/CurrencyEContainer.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/09_16/src/index.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/09_16/src/index.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/09_16/src/lessons/lesson1/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/09_16/src/lessons/lesson1/lesson1.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/09_16/src/lessons/lesson2/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/09_16/src/lessons/lesson2/lesson2.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/09_16/src/lessons/lesson3/API.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/09_16/src/lessons/lesson3/Lesson3.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/09_16/src/lessons/lesson3/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/09_16/src/lessons/lesson3/lesson_3.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/09_16/src/lessons/lesson4/Lesson4.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/09_16/src/lessons/lesson4/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/09_16/src/lessons/lesson4/lesson_4.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/09_16/src/lessons/lesson5/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/09_16/src/lessons/lesson5/lesson5.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/09_16/src/lessons/lesson6/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/09_16/src/lessons/lesson6/lesson6.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/09_16/src/lessons/lesson7/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/09_16/src/lessons/lesson7/lesson7.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/09_16/src/lessons/lesson8/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/09_16/src/lessons/lesson8/lesson8.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/09_16/src/lessons/lesson8/lesson_8.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/09_16/src/react-app-env.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/09_16/src/redux/actions.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/09_16/src/redux/currencyReducer.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/09_16/src/redux/state.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/09_16/tsconfig.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/09_16/yarn.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/10/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/10/.idea/10.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/10/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/10/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/10/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/10/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/10/lesson2.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/11/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/11/.idea/11.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/11/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/11/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/11/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/11/API.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/11/Lesson3.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/11/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/11/lesson_3.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/12/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/12/.idea/12.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/12/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/12/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/12/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/12/Lesson4.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/12/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/12/lesson_4.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/13/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/13/.idea/13.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/13/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/13/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/13/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/13/Lesson5.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/13/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/13/lesson_5.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/14/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/14/lesson6.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/deep_copy.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/promises/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/promises/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/promises/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/promises/.idea/promises.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/promises/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/promises/api-15.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/promises/api.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/promises/axios.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/07_08_unit_test/src/App.test.tsx" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,7 +166,11 @@
       <option name="presentableId" value="Default" />
       <updated>1627815685900</updated>
       <workItem from="1627815689226" duration="8000" />
+      <workItem from="1628716229325" duration="125000" />
     </task>
     <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
   </component>
 </project>
